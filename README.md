@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Working on a better world
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,react,jquery,sass,tailwind,ps,figma,nextjs,aws,bash,docker,gcp,linux,firebase,git,graphql,prisma,go,php,java,nodejs,py,md,mongodb,postgres,mysql,nginx,redis,spring,unity,wordpress)](https://skillicons.dev)
 <!--
 **TheTalesman/thetalesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Interests
+DDD, Clean Architecture, SOLID, XP, TDD.
+
+### About me
+Currently working for https://github.com/orgs/TallerWebSolutions/ and some personal projects. 
+Looking for oportunities to contrib in open source.
+Looking for oportunities to volunteer.
+
+reach me in twitter @https://twitter.com/alisonsvargas
