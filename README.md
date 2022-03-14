@@ -23,4 +23,4 @@ Currently working for https://github.com/orgs/TallerWebSolutions/ and some perso
 Looking for oportunities to contrib in open source.
 Looking for oportunities to volunteer.
 
-reach me in twitter @https://twitter.com/alisonsvargas
+reach me in twitter https://twitter.com/alisonsvargas
