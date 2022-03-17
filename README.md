@@ -1,5 +1,23 @@
-### Working on a better world
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,react,jquery,sass,tailwind,ps,figma,nextjs,aws,bash,docker,gcp,linux,firebase,git,graphql,prisma,go,php,java,nodejs,py,md,mongodb,postgres,mysql,nginx,redis,spring,unity,wordpress)](https://skillicons.dev)
+# Working on a better world
+
+## Front Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,react,jquery,sass,tailwind)](https://skillicons.dev)
+
+## Back Skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,firebase,graphql,prisma,go,php,java,nodejs,py,md,spring,wordpress)](https://skillicons.dev)
+
+## DB Skills
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,redis)](https://skillicons.dev)
+
+## UI Skills
+[![My Skills](https://skillicons.dev/icons?i=ps,figma,wordpress)](https://skillicons.dev)
+
+## Infra Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,gcp,linux)](https://skillicons.dev)
+
+## Game Dev Skills
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
 <!--
 **TheTalesman/thetalesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
