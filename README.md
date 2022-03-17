@@ -19,7 +19,7 @@
 ### Infra/DB
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,bash,nginx,docker,linux,mongodb,postgres,mysql,redis,firebase&perline=3" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,bash,nginx,docker,linux,mongodb,postgres,mysql,redis,firebase&perline=4" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 ### Others 
 <p align="center">
   <a href="#">
-<img src="https://skillicons.dev/icons?i=ps,figma,ai,wordpress,unity,git,discord,space,vscode&perline=3" />
+<img src="https://skillicons.dev/icons?i=ps,figma,ai,wordpress,unity,git,discord,vscode&perline=4" />
   </a>
 </p>
 
