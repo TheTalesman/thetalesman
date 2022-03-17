@@ -1,22 +1,36 @@
 # Working on a better world
-## Skills
-### Front 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,vue,react,jquery,sass,tailwind)](https://skillicons.dev)
+
+## Known languagues, tools, etc.
+### Front
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=angular,react,ts,apollo,styledcomponents,js,html,css,vue,jquery,sass,tailwind&perline=4" />
+  </a>
+</p>
 
 ### Back
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,nextjs,graphql,prisma,php,py,md,java,spring,wordpress)](https://skillicons.dev)
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,nextjs,graphql,prisma,php,py,md,java,spring,wordpress&perline=4" />
+  </a>
+</p>
 
-### Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,gcp,linux)](https://skillicons.dev)
 
-### DB
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase)](https://skillicons.dev)
+### Infra/DB
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=aws,gcp,bash,nginx,docker,linux,mongodb,postgres,mysql,redis,firebase&perline=3" />
+  </a>
+</p>
 
-### UI
-[![My Skills](https://skillicons.dev/icons?i=ps,figma,wordpress)](https://skillicons.dev)
 
-### Game Dev
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+### Others 
+<p align="center">
+  <a href="#">
+<img src="https://skillicons.dev/icons?i=ps,figma,wordpress,unity,git,discord&perline=3" />
+  </a>
+</p>
+
 
 <!--
 **TheTalesman/thetalesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
