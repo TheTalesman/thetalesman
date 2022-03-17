@@ -1,21 +1,21 @@
 # Working on a better world
+## Skills
+### Front 
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,vue,react,jquery,sass,tailwind)](https://skillicons.dev)
 
-## Front Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,vue,react,jquery,sass,tailwind)](https://skillicons.dev)
+### Back
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,nextjs,graphql,prisma,php,py,md,java,spring,wordpress)](https://skillicons.dev)
 
-## Back Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,firebase,graphql,prisma,go,php,java,nodejs,py,md,spring,wordpress)](https://skillicons.dev)
-
-## DB Skills
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,redis)](https://skillicons.dev)
-
-## UI Skills
-[![My Skills](https://skillicons.dev/icons?i=ps,figma,wordpress)](https://skillicons.dev)
-
-## Infra Skills
+### Infra
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,gcp,linux)](https://skillicons.dev)
 
-## Game Dev Skills
+### DB
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase)](https://skillicons.dev)
+
+### UI
+[![My Skills](https://skillicons.dev/icons?i=ps,figma,wordpress)](https://skillicons.dev)
+
+### Game Dev
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 
 <!--
