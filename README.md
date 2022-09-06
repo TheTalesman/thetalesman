@@ -8,10 +8,3 @@
 
 ## Interests
 DDD, Clean Architecture, SOLID, XP, TDD.
-
-### About me
-Currently working for https://github.com/orgs/TallerWebSolutions/ and some personal projects. 
-Looking for oportunities to contrib in open source.
-Looking for oportunities to volunteer.
-
-reach me in twitter https://twitter.com/alisonsvargas
